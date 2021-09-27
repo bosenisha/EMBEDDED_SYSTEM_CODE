@@ -1,0 +1,19 @@
+struct car 
+{
+ int fuel tank_cap;
+
+}
+ c1, c2;
+
+int main()
+ {
+
+cl.fuel_tank_cap = 45;
+
+c2.fuel tank_cap = 30;
+
+printf("%d %d", cl.fuel_tank_cap, c2.fuel_tank_cap);
+
+return 0;
+
+}
